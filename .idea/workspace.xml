@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5030efc3-e920-4d20-9735-90e93c2fa59c" name="Changes" comment="Greeter" />
+    <list default="true" id="5030efc3-e920-4d20-9735-90e93c2fa59c" name="Changes" comment="InitOrder">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PersonA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PersonB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PersonC.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PersonD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PersonE.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PersonF.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,14 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.InitOrderKt">
-    <configuration name="GreeterTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.GreeterTestKt" />
-      <module name="KonsepOOP" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.PersonFKt">
     <configuration name="InitOrderKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.InitOrderKt" />
       <module name="KonsepOOP" />
@@ -50,10 +51,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PersonAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.PersonAKt" />
+      <module name="KonsepOOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.PersonDKt" />
+      <module name="KonsepOOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonEKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.PersonEKt" />
+      <module name="KonsepOOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonFKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.PersonFKt" />
+      <module name="KonsepOOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PersonFKt" />
+        <item itemvalue="Kotlin.PersonEKt" />
+        <item itemvalue="Kotlin.PersonDKt" />
+        <item itemvalue="Kotlin.PersonAKt" />
         <item itemvalue="Kotlin.InitOrderKt" />
-        <item itemvalue="Kotlin.GreeterTestKt" />
       </list>
     </recent_temporary>
   </component>
@@ -80,12 +112,20 @@
       <option name="project" value="LOCAL" />
       <updated>1726543414045</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="InitOrder">
+      <created>1726543569350</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726543569350</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="KonsepOOP" />
     <MESSAGE value="Greeter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Greeter" />
+    <MESSAGE value="InitOrder" />
+    <option name="LAST_COMMIT_MESSAGE" value="InitOrder" />
   </component>
 </project>
